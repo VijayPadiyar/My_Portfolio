@@ -11,3 +11,5 @@ This repository contains a responsive single-page portfolio built with:
 - Vanilla JavaScript
 
 It is designed to present my experience as a software developer, including backend and frontend work, research awards, technical certifications, and open opportunities.
+
+It is live at https://vijaypadiyar.github.io/My_Portfolio/
