@@ -1,4 +1,4 @@
-# Vijay Padiyar — Developer Portfolio
+# Vijay Padiyar — Software Developer Portfolio
 
 A clean, modern portfolio website showcasing my skills, projects, research recognition, and contact details.
 
